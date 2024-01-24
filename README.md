@@ -25,7 +25,7 @@ If you find the code useful for your research, please consider citing:
   title={Boosting Modality Representation with Pre-trained Models and Multi-task Training for Multimodal Sentiment Analysis},
   author={Hai, Jiarui and Liu, Yu-jeh and Elhilali, Mounya},
   booktitle={2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)},
-  year={2021},
+  year={2023},
   organization={IEEE}
 }
 ```
